@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'FUSAMAC', // <title>
-  manifestName: 'Spectral',
+  manifestName: 'FUSAMAC',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
   manifestBackgroundColor: '#663399',
