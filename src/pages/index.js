@@ -35,16 +35,14 @@ const IndexPage = () => (
       <div className="inner">
         <header className="major">
           <h2>
-            Arcu aliquet vel lobortis ata nisl
+            Con mas de 30 años de experiencia en colaboracion
             <br />
-            eget augue amet aliquet nisl cep donec
+            con los sectores privados, publicos y foros internacionales
           </h2>
           <p>
-            Aliquam ut ex ut augue consectetur interdum. Donec amet imperdiet
-            eleifend
+            ayudamos a nuestros clientes aprovechar esta red para
             <br />
-            fringilla tincidunt. Nullam dui leo Aenean mi ligula, rhoncus
-            ullamcorper.
+            abrir caminos para un crecimiento sustentable.
           </p>
         </header>
         <ul className="icons major">
